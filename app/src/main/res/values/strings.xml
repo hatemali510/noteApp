@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteAppp</string>
+    <string name="add">add note</string>
+    <string name="signin">add note</string>
+    <string name="cancel">cancel</string>
+    <string name="shipper_field">wrtie the note</string>
+</resources>
